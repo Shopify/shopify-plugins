@@ -26,24 +26,24 @@ Open the Command Palette (`Cmd+Shift+P`) and run:
 Chat: Install Plugin From Source
 ```
 
-Enter the repository URL: `https://github.com/shopify/dev-mcp-gemini-cli`
+Enter the repository URL: `https://github.com/shopify-playground/shopify-plugins`
 
 Or use the Copilot CLI:
 
 ```bash
-copilot plugin install shopify/dev-mcp-gemini-cli
+copilot plugin install shopify-playground/shopify-plugins
 ```
 
 ### Gemini CLI
 
 ```bash
-gemini extensions install https://github.com/shopify/dev-mcp-gemini-cli
+gemini extensions install https://github.com/shopify-playground/shopify-plugins
 ```
 
 ### Claude Code
 
 ```bash
-/plugin marketplace add shopify/dev-mcp-gemini-cli
+/plugin marketplace add shopify-playground/shopify-plugins
 /plugin install shopify-plugin@shopify-plugin
 ```
 
@@ -52,7 +52,7 @@ gemini extensions install https://github.com/shopify/dev-mcp-gemini-cli
 Install via **Dashboard → Settings → Plugins → Team Marketplaces → Import** and paste:
 
 ```
-https://github.com/shopify/dev-mcp-gemini-cli
+https://github.com/shopify-playground/shopify-plugins
 ```
 
 Or browse for it on [cursor.directory](https://cursor.directory).

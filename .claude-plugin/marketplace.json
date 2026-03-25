@@ -14,7 +14,7 @@
       "version": "1.0.0",
       "author": { "name": "Shopify" },
       "license": "MIT",
-      "homepage": "https://github.com/shopify/dev-mcp-gemini-cli",
+      "homepage": "https://github.com/shopify-playground/shopify-plugins",
       "keywords": ["shopify", "mcp", "graphql", "liquid", "storefront", "admin-api"]
     }
   ]
