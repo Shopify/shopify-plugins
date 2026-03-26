@@ -5,7 +5,7 @@
   "author": { "name": "Shopify" },
   "logo": "../assets/shopify_glyph.svg",
   "homepage": "https://shopify.dev/docs/apps/build/devmcp",
-  "repository": "https://github.com/shopify-playground/shopify-plugins",
+  "repository": "https://github.com/Shopify/shopify-plugins",
   "license": "MIT",
   "keywords": ["shopify", "mcp", "graphql", "liquid", "storefront", "admin-api"]
 }

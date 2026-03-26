@@ -1,20 +1,3 @@
-<!--
-  ☝️How to write a good PR title:
-  - Prefix it with [Feature] (if applicable)
-  - Start with a verb, for example: Add, Delete, Improve, Fix…
-  - Give as much context as necessary and as little as possible
-  - Prefix it with [WIP] while it's a work in progress
--->
+# Before you create this pull request
 
-### WHY are these changes introduced?
-
-<!--
-  Context about the problem that's being addressed.
--->
-
-### WHAT is this pull request doing?
-
-<!--
-  Summary of the changes committed.
-  Before / after screenshots appreciated for UI changes.
--->
+Thanks for your interest. This repository is a read-only mirror of a private repository and we don't accept pull requests. A workflow will close this PR automatically.

@@ -26,24 +26,24 @@ Open the Command Palette (`Cmd+Shift+P`) and run:
 Chat: Install Plugin From Source
 ```
 
-Enter the repository URL: `https://github.com/shopify-playground/shopify-plugins`
+Enter the repository URL: `https://github.com/Shopify/shopify-plugins`
 
 Or use the Copilot CLI:
 
 ```bash
-copilot plugin install shopify-playground/shopify-plugins
+copilot plugin install Shopify/shopify-plugins
 ```
 
 ### Gemini CLI
 
 ```bash
-gemini extensions install https://github.com/shopify-playground/shopify-plugins
+gemini extensions install https://github.com/Shopify/shopify-plugins
 ```
 
 ### Claude Code
 
 ```bash
-/plugin marketplace add shopify-playground/shopify-plugins
+/plugin marketplace add Shopify/shopify-plugins
 /plugin install shopify-plugin@shopify-plugin
 ```
 
@@ -52,7 +52,7 @@ gemini extensions install https://github.com/shopify-playground/shopify-plugins
 Install via **Dashboard → Settings → Plugins → Team Marketplaces → Import** and paste:
 
 ```
-https://github.com/shopify-playground/shopify-plugins
+https://github.com/Shopify/shopify-plugins
 ```
 
 Or browse for it on [cursor.directory](https://cursor.directory).
