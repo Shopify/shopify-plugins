@@ -1,6 +1,6 @@
 # Shopify Dev MCP - AI Agent Plugin
 
-This plugin connects AI coding agents to the Shopify Dev MCP server, giving them access to Shopify's dev docs, API schemas, and development guidance. Ask questions and build on top of Shopify APIs without leaving your editor or terminal.
+This plugin connects AI coding agents to the Shopify Dev MCP server, giving them access to Shopify's developer docs, API schemas, and development guidance. Ask questions and build Shopify apps without leaving your editor or terminal.
 
 **What you get:**
 
